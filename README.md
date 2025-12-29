@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://github.com/Vishnu-C-10/online-banking-system">
-  <img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge"/>
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?style=for-the-badge"/>
@@ -155,7 +155,7 @@ Clean separation of responsibilities with layered architecture.
 ## ▶️ Getting Started
 
 ### Prerequisites
-- Java 17
+- Java 21
 - MySQL
 - Maven
 - Postman
@@ -197,8 +197,7 @@ Clean separation of responsibilities with layered architecture.
 ## 📞 Contact
 
 **Vishnu C**  
-Final Year IT Student  
-Backend Developer – Java & Spring Boot  
+vishnuc234567@gmail.com  
 
 Project Link:  
 https://github.com/Vishnu-C-10/online-banking-system
